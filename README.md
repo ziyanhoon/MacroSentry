@@ -1,20 +1,15 @@
 # MacroSentry
-AI-powered macro intelligence dashboard — real-time macro news aggregation, theme heat detection, market context, and AI-generated business implications in one unified interface.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Project-blue)
-![React](https://img.shields.io/badge/React-Frontend-61dafb)
-![Express](https://img.shields.io/badge/Express-Backend-black)
-![License](https://img.shields.io/badge/License-MIT-green)
+AI-powered macro intelligence and reasoning platform — real-time macro news aggregation, theme heat detection, causal chain analysis, historical analogues, and cross-asset impact mapping in one unified dashboard.
 
-**MacroSentry** helps users move from scattered macro headlines to a more structured understanding of what is actually heating up across markets, policy, and global economic themes.
+MacroSentry helps users move beyond headline monitoring by turning scattered macro news into structured narratives, transmission pathways, and market-relevant insights.
 
-It combines:
-- multi-source macro news aggregation
-- rule-based theme classification
-- heat and momentum scoring
-- AI-generated milestones and implications
-- market indicator overlays
-- workspace tools for deeper research
+It is designed not just to tell users **what is hot**, but also:
+
+- **why it matters**
+- **how it may propagate through the economy**
+- **which asset classes may be affected**
+- **what similar historical episodes looked like**
 
 ---
 
@@ -22,28 +17,202 @@ It combines:
 
 | Problem | Solution |
 |---|---|
-| Macro news is scattered across many sources | Aggregates macro-relevant articles into one dashboard |
-| Hard to tell what is noise vs what is truly heating up | Uses theme-based heat scoring built from volume, momentum, and persistence |
-| Headlines often lack market context | Connects themes with economic indicators, asset impacts, and market charts |
-| News is descriptive but not actionable | Uses AI to generate milestones, implications, and macro explainers |
-| Research is fragmented across tabs and notes | Includes a workspace for note-taking, analogue search, and risk exploration |
+| Macro news is fragmented across many sources | Aggregates macro-relevant news into a single structured dashboard |
+| It is hard to tell which narratives are truly accelerating | Uses theme heat scoring based on volume, momentum, and source quality |
+| Headlines rarely explain economic transmission | Causal chain analysis maps how macro shocks flow into inflation, rates, growth, and markets |
+| Investors struggle to connect themes across markets | Cross-theme correlation and cross-asset impact analysis reveal broader macro linkages |
+| It is difficult to judge whether current conditions are unprecedented | Historical analogue engine compares live themes with similar past macro episodes |
+| News dashboards often stop at summarisation | MacroSentry combines summarisation, explanation, propagation logic, and market interpretation |
+
+---
+
+## Core Product Pillars
+
+### 1. Theme Heat Detection
+MacroSentry continuously scans macro news and classifies articles into predefined market themes such as geopolitics, inflation, central banks, energy, trade, credit stress, and growth slowdown.
+
+Each theme is ranked using a heat engine that combines:
+- article volume
+- momentum acceleration
+- persistence
+- source credibility
+
+This helps users identify which macro narratives are genuinely gaining traction.
+
+### 2. Causal Chain Analysis
+One of MacroSentry’s key differentiators is its causal chain engine.
+
+For each macro theme, the platform explains how an initial shock may propagate through the economy. For example:
+
+`Geopolitical conflict → energy supply disruption → inflation pressure → tighter policy expectations → asset repricing`
+
+This helps users understand not only what happened, but what could happen next.
+
+### 3. Historical Analogues
+MacroSentry compares the current macro setup against similar historical episodes, such as prior oil shocks, financial stress events, or sovereign crises.
+
+Each analogue includes:
+- similarity scoring
+- event timeline
+- historical market outcomes
+
+This allows users to assess whether current patterns resemble known past regimes and how markets behaved during those periods.
+
+### 4. Cross-Asset Impact Translation
+For every major macro theme, the system estimates likely implications across key asset classes:
+
+- Rates
+- Equities
+- FX
+- Commodities
+- Credit
+
+The goal is to help users bridge the gap between macro headlines and actual investment relevance.
+
+### 5. Cross-Theme Linkages
+Macro themes rarely move in isolation. MacroSentry calculates cross-theme relationships to help users understand how one narrative can reinforce or spill over into others.
+
+This allows users to see the broader system-level structure of the macro environment rather than viewing events as disconnected headlines.
+
+### 6. AI Macro Briefing Layer
+MacroSentry uses LLM-powered summarisation to generate:
+- key milestones
+- business implications
+- daily and weekly macro briefings
+- contextual Q&A responses
+
+This gives users a research-assistant-style experience without forcing them to manually read through dozens of articles.
 
 ---
 
 ## Key Features
 
-### Macro Theme Intelligence
-- Detects and groups articles into macro themes such as inflation, rates, commodities, geopolitics, China, credit stress, and growth slowdown
-- Tracks **theme heat**, **momentum**, and **trend direction**
-- Surfaces the most important themes through a ranked dashboard view
-- Supports emerging theme detection for developing narratives
+### Macro Intelligence Dashboard
+- Theme heat map with ranked macro narratives
+- Hot themes and active escalation alerts
+- Theme activity radar across volume and momentum
+- 14-day theme momentum tracking
 
-### AI Insight Layer
-- Generates **key milestones** for each macro theme
-- Produces **business implications** from recent developments
-- Provides AI-generated **macro summary** and **daily briefing**
-- Supports theme exploration through prompt-based analysis and Q&A
+### Deep-Dive Theme Analysis
+- Theme-specific summaries and business implications
+- Causal chain analysis
+- Cross-theme correlation logic
+- Cross-asset impact estimates
+- Historical analogue matching
 
+### News Feed Intelligence
+- Filterable article stream by:
+  - macro theme
+  - region
+  - source
+  - time window
+  - sector
+- Sector-aware news classification
+- Direct access to original supporting articles
+
+### Economic & Market Context
+- Live macro indicators including inflation, employment, growth, and rates
+- Market context via asset and indicator tracking
+- Earnings calendar for major listed firms
+- Corporate signal detection linked to broader macro narratives
+
+### Visual Reasoning Tools
+- Market Graph for transmission pathway visualisation
+- Theme Evolution view for narrative lifecycle tracking
+- Summary tab for AI-generated daily and weekly macro synthesis
+- Workspace for deeper research and note-taking
+
+---
+
+## How It Works
+
+### 1. Data Ingestion
+The platform aggregates macro-relevant content from multiple external sources including RSS feeds, NewsAPI, GDELT fallback, macroeconomic data providers, and market endpoints.
+
+### 2. Theme Classification
+Incoming articles are filtered, cleaned, and tagged by:
+- macro theme
+- region
+- sector relevance
+- timeline
+
+### 3. Heat Scoring
+Themes are scored using a weighted blend of:
+- recent article count
+- momentum acceleration
+- persistence over time
+- source quality
+- supporting signals
+
+This produces a ranked hot/warm/cool view of the macro landscape.
+
+### 4. Reasoning & Enrichment
+Once themes are grouped, the platform enriches them with:
+- AI-generated milestones
+- business implications
+- causal chains
+- cross-theme relationships
+- cross-asset interpretations
+- historical analogues
+
+### 5. Dashboard Delivery
+All structured outputs are served through the application backend and rendered into interactive dashboard modules for research, monitoring, and macro decision support.
+
+---
+
+## Dashboard Modules
+
+- **Overview** — macro command center with hot themes, alerts, radar, and indicators
+- **Themes** — deep-dive three-panel macro analysis
+- **News Feed** — supporting articles behind each macro signal
+- **Economic Indicators** — live quantitative macro dashboard
+- **Alerts** — active and escalation alerts with AI exploration
+- **Summary** — AI-generated daily and weekly macro briefings
+- **Market Graph** — visualisation of macro transmission pathways
+- **Theme Evolution** — historical development of macro narratives
+- **Earnings Calendar** — upcoming corporate catalysts by company and sector
+- **Corporate Signals** — company-level signals linked back to broader macro themes
+
+---
+
+## Architecture Overview
+
+MacroSentry is built as a full-stack TypeScript application with a layered intelligence pipeline:
+
+`News & Market Data Sources → Classification Engine → Theme Heat Scoring → Causal / Analogue / Asset Impact Layer → API Layer → Interactive Dashboard`
+
+Core stack:
+- **Frontend:** React + TypeScript + Vite
+- **Backend:** Node.js + Express + TypeScript
+- **AI:** Groq + OpenAI
+- **Data Sources:** RSS, NewsAPI, GDELT, FRED, Yahoo Finance, Financial Modeling Prep
+- **Persistence:** JSON-based local storage for articles, history, and state
+
+---
+
+## Project Positioning
+
+MacroSentry is not just a macro news reader.
+
+It is a macro reasoning platform built to help users answer:
+
+- What macro themes are getting hotter?
+- Is this real momentum or just headline noise?
+- How might this shock propagate through the economy?
+- Which asset classes are most exposed?
+- Have we seen something similar before?
+- What were the historical market outcomes?
+
+---
+
+## Roadmap
+
+- Stronger historical backfill for theme evolution
+- Improved analogue retrieval and similarity scoring
+- Better cross-asset calibration using live market reactions
+- Expanded alerting and notification workflows
+- More advanced sector and company linkage logic
+- Stronger persistence layer beyond local file storage
 ### News & Signal Aggregation
 - Pulls data from multiple sources including:
   - RSS feeds
