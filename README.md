@@ -24,6 +24,8 @@ The platform aggregates news from multiple sources, classifies articles into maj
 
 Its key differentiators are causal chain analysis, historical analogue matching, and cross-asset impact interpretation. This allows users to go beyond simply knowing what is happening to understanding how a shock may transmit through inflation, rates, growth, and markets, as well as whether similar episodes have occurred before and how they played out. Overall, MacroSentry serves as a unified decision-support dashboard for macro monitoring, market reasoning, and deeper research.
 
+Slide Deck: https://drive.google.com/file/d/1HSU2qYCjZE3BfKQvN9WBtgudlfsUte8D/view?usp=sharing
+
 ## Why MacroSentry?
 
 | Problem | Solution |
