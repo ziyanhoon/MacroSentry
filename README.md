@@ -132,6 +132,7 @@ This gives users a research-assistant-style experience without forcing them to m
 ### Visual Reasoning Tools
 - Market Graph for transmission pathway visualisation
 - Theme Evolution view for narrative lifecycle tracking
+- Macro Map for global macro signal monitoring
 - Summary tab for AI-generated daily and weekly macro synthesis
 - Workspace for deeper research and note-taking
 
@@ -178,6 +179,7 @@ All structured outputs are served through the application backend and rendered i
 - **Overview** — macro command center with hot themes, alerts, radar, and indicators
 - **Themes** — deep-dive three-panel macro analysis
 - **News Feed** — supporting articles behind each macro signal
+- **Macro Map** — geographic visualisation of macro signal intensity across countries
 - **Economic Indicators** — live quantitative macro dashboard
 - **Alerts** — active and escalation alerts with AI exploration
 - **Summary** — AI-generated daily and weekly macro briefings
