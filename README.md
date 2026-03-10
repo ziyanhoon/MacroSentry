@@ -2,6 +2,11 @@
 
 AI-powered macro intelligence and reasoning platform — real-time macro news aggregation, theme heat detection, causal chain analysis, historical analogues, and cross-asset impact mapping in one unified dashboard.
 
+![TypeScript](https://img.shields.io/badge/TypeScript-Project-blue)
+![React](https://img.shields.io/badge/React-Frontend-61dafb)
+![Express](https://img.shields.io/badge/Express-Backend-black)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 MacroSentry helps users move beyond headline monitoring by turning scattered macro news into structured narratives, transmission pathways, and market-relevant insights.
 
 It is designed not just to tell users **what is hot**, but also:
