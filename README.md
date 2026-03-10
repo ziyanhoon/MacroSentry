@@ -16,7 +16,13 @@ It is designed not just to tell users **what is hot**, but also:
 - **which asset classes may be affected**
 - **what similar historical episodes looked like**
 
----
+## Project Description
+
+MacroSentry is an AI-powered macro intelligence and reasoning platform built to help users make sense of fast-moving economic and market developments. Rather than functioning as just another news dashboard, it transforms fragmented macro headlines into structured, decision-useful insights by identifying which themes are genuinely heating up, explaining why they matter, and showing how they may propagate through the broader economy and financial markets.
+
+The platform aggregates news from multiple sources, classifies articles into major macro themes such as inflation, central banks, geopolitics, energy, trade, and growth, and ranks them using a heat-scoring engine based on volume, momentum, and persistence. On top of this, MacroSentry adds an AI enrichment layer that generates summaries, business implications, and milestone tracking for each theme.
+
+Its key differentiators are causal chain analysis, historical analogue matching, and cross-asset impact interpretation. This allows users to go beyond simply knowing what is happening to understanding how a shock may transmit through inflation, rates, growth, and markets, as well as whether similar episodes have occurred before and how they played out. Overall, MacroSentry serves as a unified decision-support dashboard for macro monitoring, market reasoning, and deeper research.
 
 ## Why MacroSentry?
 
