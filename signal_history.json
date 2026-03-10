@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-03-09",
+    "theme": "Trade & Tariffs",
+    "level": "HOT",
+    "score": 100
+  },
+  {
+    "date": "2026-03-09",
+    "theme": "Geopolitics & Conflicts",
+    "level": "HOT",
+    "score": 94
+  },
+  {
+    "date": "2026-03-09",
+    "theme": "Energy & Commodities",
+    "level": "HOT",
+    "score": 75
+  },
+  {
+    "date": "2026-03-09",
+    "theme": "Fiscal Policy",
+    "level": "HOT",
+    "score": 75
+  },
+  {
+    "date": "2026-03-09",
+    "theme": "undefined",
+    "level": "HOT",
+    "score": 100
+  },
+  {
+    "date": "2026-03-10",
+    "theme": "Geopolitics & Conflicts",
+    "level": "HOT",
+    "score": 100
+  },
+  {
+    "date": "2026-03-10",
+    "theme": "Energy & Commodities",
+    "level": "HOT",
+    "score": 84
+  },
+  {
+    "date": "2026-03-10",
+    "theme": "Fiscal Policy",
+    "level": "HOT",
+    "score": 75
+  }
+]

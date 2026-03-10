@@ -1,0 +1,102 @@
+{
+  "Credit & Banking": {
+    "heat": "warm",
+    "days": 71
+  },
+  "Energy & Commodities": {
+    "heat": "hot",
+    "days": 75
+  },
+  "Geopolitics & Conflicts": {
+    "heat": "hot",
+    "days": 75
+  },
+  "Central Bank Policy": {
+    "heat": "warm",
+    "days": 71
+  },
+  "Currency & Emerging Markets": {
+    "heat": "warm",
+    "days": 71
+  },
+  "Bond Markets & Rates": {
+    "heat": "warm",
+    "days": 16
+  },
+  "Trade & Tariffs": {
+    "heat": "warm",
+    "days": 41
+  },
+  "Fiscal Policy": {
+    "heat": "hot",
+    "days": 75
+  },
+  "Employment & Labor": {
+    "heat": "warm",
+    "days": 71
+  },
+  "Inflation & Prices": {
+    "heat": "cool",
+    "days": 75
+  },
+  "Growth & Recession": {
+    "heat": "warm",
+    "days": 71
+  },
+  "China Economy": {
+    "heat": "warm",
+    "days": 75
+  },
+  "Semiconductor Race": {
+    "heat": "cool",
+    "days": 75
+  },
+  "Supply Chain Disruption": {
+    "heat": "cool",
+    "days": 75
+  },
+  "Pharma & Health Policy": {
+    "heat": "warm",
+    "days": 7
+  },
+  "Cybersecurity Threat": {
+    "heat": "cool",
+    "days": 75
+  },
+  "AI Industry Disruption": {
+    "heat": "warm",
+    "days": 42
+  },
+  "US Fiscal Standoff": {
+    "heat": "cool",
+    "days": 75
+  },
+  "European Economic Outlook": {
+    "heat": "cool",
+    "days": 75
+  },
+  "Election Uncertainty": {
+    "heat": "cool",
+    "days": 75
+  },
+  "India Growth Story": {
+    "heat": "cool",
+    "days": 75
+  },
+  "Crypto Market Moves": {
+    "heat": "cool",
+    "days": 75
+  },
+  "Climate Policy Shift": {
+    "heat": "cool",
+    "days": 75
+  },
+  "Japan Economic Shift": {
+    "heat": "cool",
+    "days": 75
+  },
+  "Tech Sector Layoffs": {
+    "heat": "cool",
+    "days": 75
+  }
+}

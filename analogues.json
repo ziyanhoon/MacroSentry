@@ -1,0 +1,327 @@
+[
+  {
+    "id": "volcker-shock-1980",
+    "title": "Volcker Shock: Fed Rate Surge to 20%",
+    "dateRange": "1979–1982",
+    "themeTags": ["Fed Policy & Rate Path", "US Inflation & CPI", "Recession & Growth"],
+    "summary": "Fed Chair Paul Volcker raised the federal funds rate to nearly 20% to break double-digit inflation. The aggressive tightening triggered back-to-back recessions in 1980 and 1981-82. Unemployment soared above 10%, but inflation was ultimately crushed from 14% to under 4%. The episode defined modern central bank credibility and set the template for hawkish monetary policy.",
+    "outcomes": [
+      "Inflation fell from 14.8% to 3.2% within three years",
+      "US entered severe recession with 10.8% peak unemployment",
+      "Long-term bond yields began a 40-year secular decline"
+    ],
+    "marketImpacts": ["Rates", "Equities", "Credit", "FX"]
+  },
+  {
+    "id": "plaza-accord-1985",
+    "title": "Plaza Accord: Coordinated Dollar Devaluation",
+    "dateRange": "Sep 1985",
+    "themeTags": ["Central Banks (Global)", "Trade & Tariffs", "Fed Policy & Rate Path"],
+    "summary": "The G5 nations agreed to jointly intervene in currency markets to depreciate the US dollar, which had surged 50% over the prior four years. The strong dollar was crushing US exports and stoking protectionist pressures. Within two years the dollar fell 40% against the yen and 50% against the Deutsche Mark. The accord demonstrated the power of coordinated central bank intervention.",
+    "outcomes": [
+      "USD fell 40-50% against major currencies over two years",
+      "US trade deficit began narrowing as exports became competitive",
+      "Japan's resulting easy money fueled asset bubble leading to 1989 crash"
+    ],
+    "marketImpacts": ["FX", "Equities", "Trade"]
+  },
+  {
+    "id": "black-monday-1987",
+    "title": "Black Monday: Dow Falls 22.6% in One Day",
+    "dateRange": "Oct 19, 1987",
+    "themeTags": ["Bond Yields & Fixed Income", "Recession & Growth", "Central Banks (Global)"],
+    "summary": "The Dow Jones Industrial Average plunged 22.6% in a single session, the largest one-day percentage decline in history. Program trading and portfolio insurance strategies amplified the selloff. The Fed under Greenspan immediately flooded markets with liquidity, establishing the 'Fed put' concept. Markets recovered within two years, but the crash reshaped risk management practices.",
+    "outcomes": [
+      "Dow lost 22.6% in one day, global markets followed",
+      "Fed liquidity injection prevented broader economic damage",
+      "Circuit breakers and trading curbs were introduced"
+    ],
+    "marketImpacts": ["Equities", "Rates", "Credit"]
+  },
+  {
+    "id": "gulf-war-oil-1990",
+    "title": "Gulf War Oil Shock: Iraqi Invasion of Kuwait",
+    "dateRange": "Aug 1990 – Feb 1991",
+    "themeTags": ["Oil & Energy Prices", "Geopolitics & Conflicts", "Recession & Growth"],
+    "summary": "Iraq's invasion of Kuwait removed 4.3 million barrels per day from global oil supply, sending crude prices from $17 to $41 in three months. The oil spike contributed to a US recession already underway from tight monetary policy. Coalition forces liberated Kuwait in February 1991, and oil prices quickly reversed. The episode demonstrated oil's outsized role as a recession catalyst.",
+    "outcomes": [
+      "Oil doubled from $17 to $41/barrel within three months",
+      "US economy entered recession partly driven by energy costs",
+      "Prices reversed sharply after coalition victory"
+    ],
+    "marketImpacts": ["Oil", "Equities", "Rates"]
+  },
+  {
+    "id": "asian-crisis-1997",
+    "title": "Asian Financial Crisis: Currency Contagion",
+    "dateRange": "Jul 1997 – 1998",
+    "themeTags": ["Central Banks (Global)", "China Economy", "Bond Yields & Fixed Income"],
+    "summary": "Thailand's baht devaluation triggered cascading currency collapses across Southeast Asia. Countries with pegged exchange rates and large dollar-denominated debts faced devastating capital flight. The crisis spread to South Korea, Indonesia, and eventually Russia and Brazil. The IMF intervened with massive bailout packages, imposing austerity conditions that proved politically toxic.",
+    "outcomes": [
+      "Thai baht lost 50%, Indonesian rupiah fell 80%",
+      "IMF deployed $118 billion in rescue packages",
+      "Emerging markets rebuilt FX reserves as insurance against future crises"
+    ],
+    "marketImpacts": ["FX", "Equities", "Credit", "Rates"]
+  },
+  {
+    "id": "ltcm-1998",
+    "title": "LTCM Collapse: Hedge Fund Systemic Risk",
+    "dateRange": "Aug–Sep 1998",
+    "themeTags": ["Bond Yields & Fixed Income", "Financial Regulation", "Fed Policy & Rate Path"],
+    "summary": "Long-Term Capital Management, a highly leveraged hedge fund run by Nobel laureates, nearly collapsed after Russia's default triggered a global flight to quality. LTCM's $4.7 billion in capital supported $125 billion in positions. The Fed orchestrated a private-sector bailout to prevent systemic contagion. The episode exposed the dangers of concentrated leverage in interconnected markets.",
+    "outcomes": [
+      "LTCM lost $4.6 billion in under four months",
+      "Fed organized $3.6 billion private-sector recapitalization",
+      "Fed cut rates three times to stabilize markets"
+    ],
+    "marketImpacts": ["Credit", "Rates", "Equities"]
+  },
+  {
+    "id": "dotcom-bust-2000",
+    "title": "Dot-Com Bust: Nasdaq Falls 78%",
+    "dateRange": "Mar 2000 – Oct 2002",
+    "themeTags": ["Recession & Growth", "Fed Policy & Rate Path", "Financial Regulation"],
+    "summary": "The Nasdaq Composite peaked at 5,048 in March 2000 and fell 78% over the next two and a half years. Hundreds of internet companies with no earnings went bankrupt. The Fed cut rates from 6.5% to 1% to cushion the fallout. The bust destroyed $5 trillion in market value and led to the Sarbanes-Oxley Act tightening corporate governance.",
+    "outcomes": [
+      "Nasdaq fell 78% from peak to trough",
+      "$5 trillion in market value destroyed",
+      "Fed cut rates aggressively from 6.5% to 1%"
+    ],
+    "marketImpacts": ["Equities", "Rates", "Credit"]
+  },
+  {
+    "id": "sept-11-2001",
+    "title": "9/11 Attacks: Market Shutdown and Recovery",
+    "dateRange": "Sep 11, 2001",
+    "themeTags": ["Geopolitics & Conflicts", "Recession & Growth", "Oil & Energy Prices"],
+    "summary": "The terrorist attacks on the World Trade Center and Pentagon shut US stock markets for four days. When they reopened, the Dow fell 14% in a week. The Fed slashed rates and injected massive liquidity. Defense spending surged, reshaping fiscal priorities for a decade. Oil spiked briefly on supply fears but fell as recession deepened demand concerns.",
+    "outcomes": [
+      "Markets closed for four trading days, longest shutdown since 1933",
+      "Dow lost 14% in the first week of trading after reopening",
+      "Defense spending increased by $200B+ annually over following decade"
+    ],
+    "marketImpacts": ["Equities", "Oil", "Rates", "FX"]
+  },
+  {
+    "id": "gfc-2008",
+    "title": "Global Financial Crisis: Lehman Collapse",
+    "dateRange": "2007–2009",
+    "themeTags": ["Bond Yields & Fixed Income", "Financial Regulation", "Recession & Growth", "Fed Policy & Rate Path"],
+    "summary": "The collapse of the US housing bubble triggered a cascading failure of mortgage-backed securities, bringing down Lehman Brothers and nearly toppling the global financial system. The Fed cut rates to zero and launched unprecedented quantitative easing. Global GDP contracted for the first time since World War II. The crisis led to Dodd-Frank regulation and permanently reshaped central banking.",
+    "outcomes": [
+      "S&P 500 fell 57% from peak to March 2009 trough",
+      "Fed cut rates to 0% and launched QE1 ($1.7 trillion)",
+      "US unemployment peaked at 10%, global trade collapsed 12%"
+    ],
+    "marketImpacts": ["Equities", "Credit", "Rates", "FX"]
+  },
+  {
+    "id": "euro-debt-crisis-2010",
+    "title": "European Sovereign Debt Crisis: PIIGS Contagion",
+    "dateRange": "2010–2012",
+    "themeTags": ["Central Banks (Global)", "Bond Yields & Fixed Income", "Financial Regulation"],
+    "summary": "Greece's debt crisis exposed fiscal fragility across the eurozone periphery. Sovereign bond yields in Portugal, Ireland, Italy, Greece, and Spain spiked as default risk was repriced. The ECB eventually launched its OMT program, and Mario Draghi's 'whatever it takes' pledge in July 2012 proved the turning point. The crisis tested the eurozone's institutional architecture to its limits.",
+    "outcomes": [
+      "Greek 10-year yields hit 40%, country received €240B in bailouts",
+      "ECB's 'whatever it takes' speech halted contagion",
+      "Permanent bailout mechanisms (ESM) were established"
+    ],
+    "marketImpacts": ["Rates", "Credit", "FX", "Equities"]
+  },
+  {
+    "id": "taper-tantrum-2013",
+    "title": "Taper Tantrum: Fed Signals QE Wind-Down",
+    "dateRange": "May–Sep 2013",
+    "themeTags": ["Fed Policy & Rate Path", "Bond Yields & Fixed Income", "Central Banks (Global)"],
+    "summary": "Fed Chair Bernanke's testimony that the Fed might begin tapering asset purchases triggered a sharp selloff in bonds and emerging market assets. The 10-year Treasury yield surged from 1.6% to 3% in four months. EM currencies and equities suffered severe outflows. The episode demonstrated how sensitive global markets had become to Fed communication about unconventional policy.",
+    "outcomes": [
+      "10-year Treasury yield doubled from 1.6% to 3%",
+      "EM currencies fell 5-15%, with outflows exceeding $50 billion",
+      "Fed delayed actual taper until December 2013"
+    ],
+    "marketImpacts": ["Rates", "FX", "Equities"]
+  },
+  {
+    "id": "oil-crash-2014",
+    "title": "Oil Price Collapse: OPEC Refuses to Cut",
+    "dateRange": "Jun 2014 – Jan 2016",
+    "themeTags": ["Oil & Energy Prices", "Recession & Growth", "Bond Yields & Fixed Income"],
+    "summary": "Oil prices collapsed from $115 to $26 per barrel as OPEC, led by Saudi Arabia, refused to cut production in the face of surging US shale output. The price war was designed to squeeze high-cost producers out of the market. Energy high-yield bonds saw a wave of defaults, and petrostates faced severe fiscal crises. The episode restructured the global energy landscape.",
+    "outcomes": [
+      "Brent crude fell 77% from $115 to $26 per barrel",
+      "Energy sector high-yield default rate exceeded 15%",
+      "US shale producers cut costs dramatically, becoming more resilient"
+    ],
+    "marketImpacts": ["Oil", "Credit", "Equities", "FX"]
+  },
+  {
+    "id": "china-deval-2015",
+    "title": "China Yuan Devaluation: PBoC Shocks Markets",
+    "dateRange": "Aug 2015",
+    "themeTags": ["China Economy", "Central Banks (Global)", "Trade & Tariffs"],
+    "summary": "The PBoC unexpectedly devalued the yuan by 3% over three days, triggering a global equity selloff and fears of competitive devaluation across Asia. The S&P 500 fell 11% in six trading days. Capital outflows from China accelerated to $100 billion per month. The episode raised questions about China's growth trajectory and the stability of its managed exchange rate regime.",
+    "outcomes": [
+      "S&P 500 fell 11% in six trading days",
+      "China burned through $500B in FX reserves defending the yuan",
+      "Global growth fears temporarily shelved Fed rate hike"
+    ],
+    "marketImpacts": ["FX", "Equities", "Rates"]
+  },
+  {
+    "id": "brexit-2016",
+    "title": "Brexit Referendum: UK Votes to Leave EU",
+    "dateRange": "Jun 23, 2016",
+    "themeTags": ["Geopolitics & Conflicts", "Central Banks (Global)", "Trade & Tariffs"],
+    "summary": "The UK's surprise vote to leave the European Union sent shockwaves through global markets. Sterling fell 11% overnight to a 31-year low. The FTSE 100 initially dropped 8% before recovering as the weaker pound boosted exporters. The Bank of England cut rates and restarted QE. The result raised questions about EU cohesion and the future of globalization.",
+    "outcomes": [
+      "Sterling fell 11% overnight, lowest since 1985",
+      "Bank of England cut rates and restarted QE within weeks",
+      "Prolonged uncertainty weighed on UK business investment for years"
+    ],
+    "marketImpacts": ["FX", "Equities", "Rates"]
+  },
+  {
+    "id": "trade-war-2018",
+    "title": "US-China Trade War: Tariff Escalation",
+    "dateRange": "2018–2020",
+    "themeTags": ["Trade & Tariffs", "China Economy", "Recession & Growth"],
+    "summary": "The Trump administration imposed escalating tariffs on Chinese goods, starting at $34 billion and eventually covering $370 billion in imports. China retaliated with tariffs on US agricultural products and rare earth export restrictions. The trade war disrupted global supply chains, weighed on business investment, and contributed to a global manufacturing recession. A Phase One deal was signed in January 2020.",
+    "outcomes": [
+      "US tariffs covered $370B in Chinese imports at rates up to 25%",
+      "Global manufacturing PMI fell below 50 for 12 consecutive months",
+      "Phase One deal paused escalation but left most tariffs in place"
+    ],
+    "marketImpacts": ["Equities", "FX", "Trade"]
+  },
+  {
+    "id": "repo-crisis-2019",
+    "title": "Repo Market Seizure: Overnight Rates Spike",
+    "dateRange": "Sep 2019",
+    "themeTags": ["Bond Yields & Fixed Income", "Fed Policy & Rate Path", "Financial Regulation"],
+    "summary": "The overnight repo rate spiked to 10% on September 17, 2019, as a confluence of tax payments and Treasury settlement drained reserves from the banking system. The Fed was forced to intervene with emergency repo operations for the first time since the financial crisis. The episode exposed how quantitative tightening had reduced reserves below comfortable levels and led the Fed to restart balance sheet expansion.",
+    "outcomes": [
+      "Overnight repo rate spiked from 2% to 10% in hours",
+      "Fed injected $75B/day in emergency repo operations",
+      "Fed resumed balance sheet expansion, adding $400B in reserves"
+    ],
+    "marketImpacts": ["Rates", "Credit"]
+  },
+  {
+    "id": "covid-crash-2020",
+    "title": "COVID-19 Crash: Fastest Bear Market in History",
+    "dateRange": "Feb–Mar 2020",
+    "themeTags": ["Recession & Growth", "Fed Policy & Rate Path", "Oil & Energy Prices"],
+    "summary": "The COVID-19 pandemic triggered the fastest bear market in history, with the S&P 500 falling 34% in 23 trading days. Oil prices went negative for the first time as demand collapsed. The Fed cut rates to zero, launched unlimited QE, and established emergency lending facilities. Congress passed $2.2 trillion in fiscal stimulus. Markets recovered to new highs within five months.",
+    "outcomes": [
+      "S&P 500 fell 34% in 23 days, fastest bear market ever",
+      "WTI crude went negative at -$37/barrel",
+      "Fed and Congress deployed $6T+ in combined monetary and fiscal stimulus"
+    ],
+    "marketImpacts": ["Equities", "Oil", "Rates", "Credit"]
+  },
+  {
+    "id": "gamestop-2021",
+    "title": "GameStop Short Squeeze: Retail vs. Wall Street",
+    "dateRange": "Jan 2021",
+    "themeTags": ["Financial Regulation", "Bond Yields & Fixed Income"],
+    "summary": "Retail traders on Reddit's WallStreetBets forum coordinated a massive short squeeze on GameStop stock, sending it from $20 to $483 in two weeks. Hedge fund Melvin Capital lost 53% and required a $2.75 billion bailout. Robinhood controversially restricted buying, sparking Congressional hearings. The episode highlighted the power of retail coordination and the fragility of short-selling strategies.",
+    "outcomes": [
+      "GameStop surged from $20 to $483 in two weeks",
+      "Melvin Capital lost 53%, received $2.75B emergency injection",
+      "Congressional hearings examined payment-for-order-flow and market structure"
+    ],
+    "marketImpacts": ["Equities", "Credit"]
+  },
+  {
+    "id": "inflation-surge-2021",
+    "title": "Post-COVID Inflation Surge: Transitory Debate",
+    "dateRange": "2021–2022",
+    "themeTags": ["US Inflation & CPI", "Fed Policy & Rate Path", "Oil & Energy Prices"],
+    "summary": "US CPI surged from 1.4% to 9.1%, the highest since 1981, driven by supply chain disruptions, fiscal stimulus, and pent-up demand. The Fed initially characterized inflation as 'transitory' before abandoning the term in November 2021. The delayed policy response forced the most aggressive rate hiking cycle since the 1980s. The episode reignited debate about central bank credibility and inflation expectations anchoring.",
+    "outcomes": [
+      "CPI peaked at 9.1% in June 2022, highest since 1981",
+      "Fed hiked rates from 0% to 5.25% in 16 months",
+      "The word 'transitory' was retired as inflation persisted for 18+ months"
+    ],
+    "marketImpacts": ["Rates", "Equities", "FX", "Oil"]
+  },
+  {
+    "id": "russia-ukraine-2022",
+    "title": "Russia-Ukraine War: Energy & Commodity Shock",
+    "dateRange": "Feb 2022 – present",
+    "themeTags": ["Geopolitics & Conflicts", "Oil & Energy Prices", "Trade & Tariffs"],
+    "summary": "Russia's invasion of Ukraine triggered the largest sanctions regime in history and a severe energy crisis in Europe. European natural gas prices surged 10x, and global food prices spiked as Ukraine's grain exports were blocked. The West froze $300 billion in Russian central bank reserves, an unprecedented step. The conflict accelerated the reshoring and 'friendshoring' of supply chains.",
+    "outcomes": [
+      "European gas prices surged 10x, triggering energy rationing plans",
+      "$300B in Russian central bank reserves were frozen",
+      "Global food prices hit record highs, threatening EM stability"
+    ],
+    "marketImpacts": ["Oil", "FX", "Equities", "Rates", "Credit"]
+  },
+  {
+    "id": "uk-mini-budget-2022",
+    "title": "UK Mini-Budget Crisis: Gilt Market Meltdown",
+    "dateRange": "Sep–Oct 2022",
+    "themeTags": ["Bond Yields & Fixed Income", "Central Banks (Global)", "Financial Regulation"],
+    "summary": "UK PM Liz Truss's unfunded tax cut plan triggered a gilt market crisis, with 30-year yields surging 150bps in days. Pension funds using liability-driven investment strategies faced margin calls, creating a doom loop. The Bank of England was forced to intervene with emergency bond purchases to prevent systemic collapse. Truss resigned after 45 days, the shortest tenure in UK history.",
+    "outcomes": [
+      "30-year gilt yields surged from 3.7% to 5.1% in four days",
+      "Bank of England bought £65B in gilts to stabilize pension funds",
+      "PM Truss resigned after 45 days, sterling hit all-time low"
+    ],
+    "marketImpacts": ["Rates", "FX", "Credit"]
+  },
+  {
+    "id": "svb-collapse-2023",
+    "title": "SVB Collapse: Regional Banking Crisis",
+    "dateRange": "Mar 2023",
+    "themeTags": ["Financial Regulation", "Fed Policy & Rate Path", "Bond Yields & Fixed Income"],
+    "summary": "Silicon Valley Bank collapsed in the second-largest bank failure in US history after unrealized losses on its bond portfolio triggered a depositor bank run. Signature Bank and First Republic followed. The Fed created the Bank Term Funding Program to provide emergency liquidity to the banking system. The crisis exposed how rapidly rising rates could create hidden vulnerabilities in bank balance sheets.",
+    "outcomes": [
+      "SVB's $209B in assets made it the second-largest US bank failure",
+      "Fed created BTFP providing $100B+ in emergency bank liquidity",
+      "Regional bank stocks fell 30-50%, deposit flight to large banks accelerated"
+    ],
+    "marketImpacts": ["Credit", "Rates", "Equities"]
+  },
+  {
+    "id": "boj-ycc-exit-2024",
+    "title": "Bank of Japan Exits YCC & Negative Rates",
+    "dateRange": "Mar 2024",
+    "themeTags": ["Central Banks (Global)", "Bond Yields & Fixed Income", "China Economy"],
+    "summary": "The Bank of Japan ended eight years of negative interest rates and its yield curve control framework, marking the end of an era in ultra-loose monetary policy. The yen initially weakened further despite the rate hike, as the move was well-telegraphed and the policy rate only rose to 0.1%. Japanese government bond yields rose modestly. The exit was seen as the last major central bank to normalize policy.",
+    "outcomes": [
+      "BoJ raised rates from -0.1% to 0%, ending negative rate era",
+      "Yen remained weak above 150/USD despite rate hike",
+      "JGB yields rose modestly, limited global spillover"
+    ],
+    "marketImpacts": ["Rates", "FX", "Equities"]
+  },
+  {
+    "id": "yen-carry-unwind-2024",
+    "title": "Yen Carry Trade Unwind: August 2024 Crash",
+    "dateRange": "Aug 2024",
+    "themeTags": ["Central Banks (Global)", "Bond Yields & Fixed Income", "Recession & Growth"],
+    "summary": "A surprise BoJ rate hike combined with weak US jobs data triggered a violent unwind of the yen carry trade. The Nikkei suffered its worst single-day drop since 1987, falling 12.4%. Global equities sold off sharply, with the VIX spiking above 65. The unwinding exposed the scale of leveraged positions funded by cheap yen borrowing and the interconnectedness of global rates markets.",
+    "outcomes": [
+      "Nikkei fell 12.4% in one day, worst since 1987",
+      "VIX spiked above 65, third-highest reading ever",
+      "Yen strengthened 10% in two weeks, unwinding carry positions"
+    ],
+    "marketImpacts": ["FX", "Equities", "Rates"]
+  },
+  {
+    "id": "china-property-crisis-2023",
+    "title": "China Property Crisis: Evergrande to Country Garden",
+    "dateRange": "2021–2024",
+    "themeTags": ["China Economy", "Bond Yields & Fixed Income", "Central Banks (Global)"],
+    "summary": "China's property sector, representing 30% of GDP, entered a prolonged crisis as developers including Evergrande and Country Garden defaulted on offshore bonds. New home sales fell 40% from peak levels. The PBoC cut rates repeatedly and local governments relaxed purchase restrictions, but demand remained subdued. The crisis raised concerns about systemic risk in the Chinese financial system and its implications for global commodity demand.",
+    "outcomes": [
+      "Chinese property developer offshore bonds fell to 10-20 cents on the dollar",
+      "New home sales declined 40% from 2021 peak levels",
+      "PBoC cut rates multiple times and relaxed mortgage rules nationwide"
+    ],
+    "marketImpacts": ["Credit", "Equities", "FX", "Rates"]
+  }
+]
